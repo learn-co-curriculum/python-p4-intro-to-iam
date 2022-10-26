@@ -42,7 +42,7 @@ application. If this sounds an awful lot like a database record, you're on
 the right track.
 
 Digital identities can be stored in databases as records or in special
-**directory services** using a special protocol called Lightweight Directory
+**directory services** using a protocol called Lightweight Directory
 Access Protocol (or LDAP). For simplicity's sake, we will just be using SQLite
 in this module.
 
