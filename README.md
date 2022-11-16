@@ -2,7 +2,8 @@
 
 ## Learning Goals
 
-- Create an application that requires users to authenticate with Flask-Login.
+- Create an application that requires users to authenticate with usernames and
+  passwords.
 - Retrieve data from cookies to allow users to access data from previous
   sessions.
 - Authorize users to access different sets of resources based on their
@@ -14,9 +15,9 @@
 
 ## Key Vocab
 
-- **Identity and Access Management (IAM)**: a subfield of software engineering that
-  focuses on users, their attributes, their login information, and the resources
-  that they are allowed to access.
+- **Identity and Access Management (IAM)**: a subfield of software engineering
+  that focuses on users, their attributes, their login information, and the
+  resources that they are allowed to access.
 - **Authentication**: proving one's identity to an application in order to
   access protected information; logging in.
 - **Authorization**: allowing or disallowing access to resources based on a
@@ -66,4 +67,3 @@ start building identity-tailored applications in your career and on your own.
 ## Resources
 
 - [Introduction to Identity and Access Management (IAM) - auth0](https://auth0.com/docs/get-started/identity-fundamentals/identity-and-access-management)
-- [Flask-Login](https://flask-login.readthedocs.io/en/latest/)
